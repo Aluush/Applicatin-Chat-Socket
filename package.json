@@ -1,0 +1,17 @@
+{
+  "name": "multi_room_chat",
+  "description": "example chat application with socket.io",
+  "version": "0.0.1",
+  "author": "luptior",
+  "license": "GNU",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashleygwilliams/my_package.git"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.7.3",
+    "mongoose": "^5.10.3",
+    "socket.io": "^2.5.0"
+  }
+}
